@@ -1,8 +1,3 @@
-Here's the updated `README.md` reflecting the change from `python-minimal` to `python2-minimal` and noting compatibility with Bullseye and newer versions:
-
----
-
-````markdown
 # Node.js 12 Packages
 
 This repository hosts the `.deb` package for the final release of Node.js 12, `v12.22.12`. It is intended for use in legacy systems that still require Node.js 12, as it has reached its End of Life (EOL).
